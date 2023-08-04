@@ -1,0 +1,84 @@
+body{
+
+    background-color: white;
+
+    margin: 0;
+
+}
+
+header{
+
+    width: 100%;
+
+    height: 10vh;
+
+    background-color: red;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+}
+
+header img{
+
+    height: 80%;
+   padding-left: 50px;
+
+}
+
+.menu1{
+
+    width: 50%;
+
+    display: flex;
+
+    justify-content: space-around;
+    font-family: 'Staatliches', cursive;
+}
+
+.linkMenu{
+
+    color: yellow;
+
+    text-decoration: none;
+
+    font-size: 1.5vw;
+
+}
+
+.hb{
+
+    display: none;
+
+}
+
+.menuHB{
+
+    display: none;
+
+    list-style: none;
+
+}
+.carousel-inner img{
+    width:100%;
+    height: 70vh;
+   }
+
+
+.botao {
+    
+    justify-content: center;
+    align-items: center;
+}
+.card{
+   display: flex;
+   flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+}
